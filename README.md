@@ -17,7 +17,7 @@
 - Commonly referred to as Postgres, is a free and open source relational database management system;
 
 ## Full Tutorial (Windows)
-- [Click here to start](https://github.com/jvlessa/Node-JS--with-PostgreSQL/wiki/Full-Tutorial)
+- [Click here to start](https://github.com/jvlessa/Node-JS--with-PostgreSQL/wiki/Full-Tutorial-(Windows))
 
 ## References
 - [Main reference used](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)

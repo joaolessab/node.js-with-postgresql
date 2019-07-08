@@ -21,3 +21,4 @@
 
 ## References
 - [Main reference used](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
+- [Setting Amazon Postgre on their servers](https://aws.amazon.com/pt/getting-started/tutorials/create-connect-postgresql-db/)
